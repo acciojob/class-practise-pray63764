@@ -1,8 +1,9 @@
 /*  your css code here. If applicable */
-#class{
-	border-style:solid;
-	Font color:rgb(0, 0, 255;
-	Background color:rgba(0, 0, 0, 0);
+.selector>p:nth-child(odd){
+	color:#00f;
+	Background-color:#eee;
 	Font family:Arial;
-	Font size:20px
+	Font size:20px;
+
+	
 }
